@@ -1,6 +1,6 @@
 import sys
 
-from hexlet_python_package.half import half
+from my_lib import half
 
 
 def main():
